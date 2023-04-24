@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+  }
+  
+  .quote-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .quote {
+    font-size: 24px;
+    text-align: center;
+    color: white;
+    padding: 8px;
+  }
+  
